@@ -3,7 +3,7 @@ body {
     font-family: Courier, monospace;
     font-size: 22px;
     color: black;
-    background-image: url(ted/img/floor-tile.png) ;
+    background-image: url(/ted/img/floor-tile.png) ;
     background-repeat: repeat;
     opacity: 1;
     text-align: center;
@@ -85,7 +85,7 @@ body {
     max-width: 4000px;
     margin: 40px auto auto auto;
     padding-top: 20px;
-    background-image: url(ted/img/hjalte-gregersen-2R8F6E1I-uU-unsplash.jpg);
+    background-image: url(/ted/img/hjalte-gregersen-2R8F6E1I-uU-unsplash.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
